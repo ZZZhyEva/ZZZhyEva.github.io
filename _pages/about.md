@@ -7,6 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage! My name is Huiying Zhong and I am a Ph.D. student at the [Operations Research Center, MIT](https://orc.mit.edu/).
+Hi! Welcome to my website! I am Huiying Zhong, a Ph.D. student at the [Operations Research Center, MIT](https://orc.mit.edu/). 
+I am fortunate to be co-advised by [Prof. Ali Aouad](https://www.aaouad.com/) and [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/).
 
-Prior to joining MIT, I graduated from [School of Mathematical Sciences, Peking University](http://english.math.pku.edu.cn/) with a Bacherlor's degree. 
+
+My research interests broadly lie in the interplay between human preferences/bahaviors and intelligent systems, with applications to educational sector and digital platforms.
+
+Prior to joining MIT, I graduated from [School of Mathematical Sciences, Peking University](http://english.math.pku.edu.cn/) with a B.S. degree in Statistics. 
+I grew up in Hunan, China.
+
+Education
+======
+* Ph.D in Operations Research, Massachusetts Institute of Technology, 2024-Present
+* B.S. in Mathematics and Applied Mathematics (Statistics), Peking University, 2020-2024
