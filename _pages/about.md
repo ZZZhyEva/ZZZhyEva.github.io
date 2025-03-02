@@ -11,7 +11,7 @@ Hi! Welcome to my website! I am Huiying Zhong, a Ph.D. student at the [Operation
 I am fortunate to be co-advised by [Prof. Ali Aouad](https://www.aaouad.com/) and [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/).
 
 
-My research interests broadly lie in the interplay between human preferences/bahaviors and intelligent systems, with applications to educational sector and digital platforms.
+My research interests broadly lie in the interplay between human preferences/behavior and intelligent systems, with applications to the educational sector and digital platforms.
 
 Prior to joining MIT, I graduated from [School of Mathematical Sciences, Peking University](http://english.math.pku.edu.cn/) with a B.S. degree in Statistics. 
 I grew up in Hunan, China.
