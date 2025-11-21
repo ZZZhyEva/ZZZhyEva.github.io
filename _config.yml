@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Huiying's Website"
+title                    : "✨ Huiying's Website"
 title_separator          : "-"
 name                     : &name "Huiying Zhong"
 description              : &description "Hello world!"
@@ -24,7 +24,7 @@ author:
   avatar           : "photo_Huiying.jpg"
   name             : "Huiying Zhong"
   pronouns         : "she/her"  
-  bio              : "Exploring..."
+  bio              : "Operations Research"
   location         : "Cambridge, MA, US"
   employer         : "MIT"
   uri              : # URL
